@@ -1,5 +1,4 @@
 # Alura codes
 
-\\\
-Codes made in Alura courses :)
-\\\
+Codes made during alura's courses :)
+
